@@ -1,0 +1,2 @@
+GET    /recipes   controllers.RecipesController.getRecipes
+POST   /recipes   controllers.RecipesController.postRecipe
